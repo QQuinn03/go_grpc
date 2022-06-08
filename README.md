@@ -1,2 +1,2 @@
 # go_grpc
-go grpc project course
+go grpc project course from TutorialEdge.net
